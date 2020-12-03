@@ -1,0 +1,2 @@
+export const BASE_URL = 'https://api.guildwars2.com/v2/';
+export const API_KEY = 'F0DD924B-FFAB-1143-AAE6-40D51DB2B86A8A989B69-435A-40CB-871E-C3D2BA761650';

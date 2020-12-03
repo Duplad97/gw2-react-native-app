@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Guild Wars 2 - Companion App",
+    "slug": "gw2-companion-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon_small.png",
+    "splash": {
+      "image": "./assets/logo_horizontal.png",
+      "backgroundColor": "#707070"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.duplad.gw2companion",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.duplad.gw2companion",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
